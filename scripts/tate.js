@@ -1,4 +1,4 @@
 $ ( "#koe").on('click', function(event) {
-    $(this)
+    $(this).show(.hidden);
     
-})
+});
